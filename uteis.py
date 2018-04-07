@@ -1,5 +1,6 @@
 import os
 
+
 def clear():
     name = os.name
     if name == 'posix':
